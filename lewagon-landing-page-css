@@ -1,0 +1,102 @@
+body {
+	background: rgb(245,245,245);
+	color: green;
+	font-size: 25px;
+	font-family: Helvetica;
+}
+
+h1 {
+	font-family: Courier;
+	color: red;
+	font-weight: lighter;
+	font-size: 10px;
+}
+
+h2 {
+	font-family: Courier;
+	color: pink;
+	font-weight: lighter;
+	font-size: 8px;
+}
+
+a {
+	color: black;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+#linkstart {
+	font-family: Helvetica;
+	font-weight: bold;
+	letter-spacing: 1.5px;
+	line-height: 10px;
+	padding: 10px 50px 10px 50px;
+}
+
+#banner {
+	text-align: center;
+	background-image: url("https://www.nappy.co/wp-content/uploads/2019/09/7Z8A0127_Output.jpg");
+	background-size: cover;
+	background-position: center;
+	padding: 100px;
+	color: white;
+	text-shadow: 1px 1px 5px black;
+}
+
+#banner h1 {
+	color: #EF9CDA;
+	font-size: 50px;
+}
+
+#banner p {
+	color: white;
+	opacity: 0.8;
+	font-size: 30px;
+	font-weight: lighter;
+}
+
+#footer {
+	padding: 10px;
+	background: rgb(30, 30, 30);
+	color: lightgrey;
+	text-align: center;
+}
+
+.card {
+	font-weight: lighter;
+	text-align: center;
+	background-color: rgb(237, 233, 223);
+	border-radius: 5px;
+	border: solid 1px black;
+	box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+	margin: 20px;
+}
+
+.card h2 {
+	font-family: 'Lobster Two', cursive;
+	font-size: 40px;
+	color: #A76571;
+}
+
+.card p {
+	font-family: Helvetica;
+	font-size: 20px;
+	color: #565676;
+}
+
+
+#footer a {
+	color: lightgrey;
+	font-size: 15px;
+}
+
+#footer a:hover {
+	color: white;
+}
+
+.footertext {
+	font-size: 10px;
+}
